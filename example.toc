@@ -1,0 +1,34 @@
+\contentsline {chapter}{Title}{i}% 
+\contentsline {chapter}{Abstract}{ii}% 
+\contentsline {chapter}{List of Figures}{iii}% 
+\contentsline {chapter}{List of Tables}{iv}% 
+\contentsline {chapter}{\numberline {1}Introduction}{1}% 
+\contentsline {section}{\numberline {1.1}QAP for Warehouse Optimisation}{1}% 
+\contentsline {subsection}{\numberline {1.1.1}General warehouse assignment}{1}% 
+\contentsline {subsection}{\numberline {1.1.2}Motivation for order-oriented strategies}{3}% 
+\contentsline {section}{\numberline {1.2}Order-oriented strategies}{4}% 
+\contentsline {subsection}{\numberline {1.2.1}Routing policy}{5}% 
+\contentsline {subsection}{\numberline {1.2.2}Simulated annealing}{6}% 
+\contentsline {subsection}{\numberline {1.2.3}Order-oriented swapping (OOS)}{7}% 
+\contentsline {subsection}{\numberline {1.2.4}The strategy of QAP}{8}% 
+\contentsline {subsection}{\numberline {1.2.5}}{10}% 
+\contentsline {section}{\numberline {1.3}Report Organization}{11}% 
+\contentsline {chapter}{\numberline {2}Related Work}{12}% 
+\contentsline {chapter}{\numberline {3}Experimental Design}{14}% 
+\contentsline {section}{\numberline {3.1}Design issue: Generalising QAP}{14}% 
+\contentsline {section}{\numberline {3.2}Design issue: problem size}{15}% 
+\contentsline {subsection}{\numberline {3.2.1}Splitting}{15}% 
+\contentsline {subsection}{\numberline {3.2.2}QAP for individual bunches}{16}% 
+\contentsline {subsection}{\numberline {3.2.3}QAP for aggregation}{18}% 
+\contentsline {chapter}{\numberline {4}Evaluation}{20}% 
+\contentsline {section}{\numberline {4.1}Implementation}{20}% 
+\contentsline {subsection}{\numberline {4.1.1}warehouse.mod}{21}% 
+\contentsline {subsection}{\numberline {4.1.2}grouping.mod}{22}% 
+\contentsline {section}{\numberline {4.2}Results}{23}% 
+\contentsline {chapter}{\numberline {5}Conclusion}{25}% 
+\contentsline {section}{\numberline {5.1}Future Work}{25}% 
+\contentsline {chapter}{References}{27}% 
+\contentsline {chapter}{\numberline {A}Derivation of QUBO formula}{A-1}% 
+\contentsline {chapter}{\numberline {B}Code of ILOG models}{B-1}% 
+\contentsline {section}{\numberline {B.1}grouping.mod}{B-1}% 
+\contentsline {section}{\numberline {B.2}warehouse.mod}{B-2}% 

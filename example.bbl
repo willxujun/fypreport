@@ -1,0 +1,40 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{de~Ruijter}{}{Schuur}{de~Ruijter-Schuur}{2007}{Ruijter:2007}]{Ruijter:2007}
+de~Ruijter, H., \& Schuur, P.~C. (2007).
+\newblock Improved storage in a book warehouse.
+\newblock {\em NA}, The Netherlands, October, 2007.
+
+\bibitem[\protect\citename{Mantel}{Schuur}{Heragu}{MantelETAL}{2007}{Mantel:2007}]{Mantel:2007}
+Mantel, R., Schuur, P., \& Heragu, S. (2007).
+\newblock Order oriented slotting: A new assignment strategy for warehouses.
+\newblock {\em European Journal of Industrial Engineering}, {\em 1\/}, 02,
+  2007, 301--316.
+
+\bibitem[\protect\citename{Martí}{Resende}{Ribeiro}{MartíETAL}{2013}{Marti:2013}]{Marti:2013}
+Martí, R., Resende, M.~G., \& Ribeiro, C.~C. (2013).
+\newblock Multi-start methods for combinatorial optimization.
+\newblock {\em European Journal of Operational Research}, {\em 226\/}(1),
+  April, 2013, 1 -- 8.
+
+\bibitem[\protect\citename{Sonuc}{Sen}{Bayir}{SonucETAL}{2018}{Sonuc:2018}]{Sonuc:2018}
+Sonuc, E., Sen, B., \& Bayir, S. (2018).
+\newblock A cooperative gpu-based parallel multistart simulated annealing
+  algorithm for quadratic assignment problem.
+\newblock {\em Engineering Science and Technology, an International Journal},
+  {\em 21\/}(5), October, 2018, 843 -- 849.
+
+\bibitem[\protect\citename{Stollenwerk}{Lobe}{Jung}{StollenwerkETAL}{2019}{Lobe:2019}]{Lobe:2019}
+Stollenwerk, T., Lobe, E., \& Jung, M. (2019).
+\newblock Flight gate assignment with a quantum annealer.
+\newblock In S. Feld, \& C. Linnhoff-Popien (Eds.), {\em Quantum Technology and
+  Optimization Problems} (pp.\ 99--110), Cham, March, 2019: Springer
+  International Publishing.
+
+\bibitem[\protect\citename{Tsige}{}{}{Tsige}{2013}{Tsige:2013}]{Tsige:2013}
+Tsige, M.~T. (2013).
+\newblock Improving order-picking efficiency via storage assignments
+  strategies.
+\newblock {\em NA}, The Netherlands, February, 2013.
+
+\end{thebibliography}
